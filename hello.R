@@ -7,3 +7,5 @@ prob = 0
 for (i in 1:n) if (diesum[i] < 5) prob = prob+1 
 prob = prob/n 
 print(prob) 
+
+#This is a Change
